@@ -29,7 +29,7 @@ type Pipeline struct {
 	Platform    Platform          `json:"platform,omitempty"`
 	PullSecrets []string          `json:"image_pull_secrets,omitempty" yaml:"image_pull_secrets"`
 	Services    []*Container      `json:"services,omitempty"`
-	Steps       []*Container      `json:"steps,omitempty"`
+	Steps       []*Container      `json:"mysteps,omitempty"`
 	Trigger     Conditions        `json:"trigger,omitempty"`
 	Volumes     []*Volume         `json:"volumes,omitempty"`
 	Workspace   Workspace         `json:"workspace,omitempty"`
