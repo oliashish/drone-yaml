@@ -8,8 +8,8 @@ import (
 	"bytes"
 	"fmt"
 
-	droneyaml "github.com/drone/drone-yaml/yaml"
-	"github.com/drone/drone-yaml/yaml/pretty"
+	droneyaml "github.com/oliashish/drone-yaml/yaml"
+	"github.com/oliashish/drone-yaml/yaml/pretty"
 
 	"github.com/buildkite/yaml"
 )

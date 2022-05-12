@@ -5,7 +5,7 @@
 package gitlab
 
 import (
-	"github.com/drone/drone-yaml/yaml/converter/internal"
+	"github.com/oliashish/drone-yaml/yaml/converter/internal"
 )
 
 type (

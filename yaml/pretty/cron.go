@@ -14,7 +14,7 @@
 
 package pretty
 
-import "github.com/drone/drone-yaml/yaml"
+import "github.com/oliashish/drone-yaml/yaml"
 
 // helper function pretty prints the cron resource.
 func printCron(w writer, v *yaml.Cron) {

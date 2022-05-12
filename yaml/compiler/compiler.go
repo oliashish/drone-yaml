@@ -16,9 +16,9 @@ package compiler
 
 import (
 	"github.com/drone/drone-runtime/engine"
-	"github.com/drone/drone-yaml/yaml"
-	"github.com/drone/drone-yaml/yaml/compiler/image"
-	"github.com/drone/drone-yaml/yaml/compiler/internal/rand"
+	"github.com/oliashish/drone-yaml/yaml"
+	"github.com/oliashish/drone-yaml/yaml/compiler/image"
+	"github.com/oliashish/drone-yaml/yaml/compiler/internal/rand"
 )
 
 // A Compiler compiles the pipeline configuration to an

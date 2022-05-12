@@ -17,7 +17,7 @@ package pretty
 import (
 	"sort"
 
-	"github.com/drone/drone-yaml/yaml"
+	"github.com/oliashish/drone-yaml/yaml"
 )
 
 // helper function pretty prints the container mapping.

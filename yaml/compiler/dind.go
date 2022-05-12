@@ -15,8 +15,8 @@
 package compiler
 
 import (
-	"github.com/drone/drone-yaml/yaml"
-	"github.com/drone/drone-yaml/yaml/compiler/image"
+	"github.com/oliashish/drone-yaml/yaml"
+	"github.com/oliashish/drone-yaml/yaml/compiler/image"
 )
 
 // DindFunc is a helper function that returns true

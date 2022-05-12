@@ -17,7 +17,7 @@ package pretty
 import (
 	"io"
 
-	"github.com/drone/drone-yaml/yaml"
+	"github.com/oliashish/drone-yaml/yaml"
 )
 
 // Print pretty prints the manifest.

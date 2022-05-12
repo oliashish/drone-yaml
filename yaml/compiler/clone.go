@@ -18,8 +18,8 @@ import (
 	"strconv"
 
 	"github.com/drone/drone-runtime/engine"
-	"github.com/drone/drone-yaml/yaml"
-	"github.com/drone/drone-yaml/yaml/compiler/internal/rand"
+	"github.com/oliashish/drone-yaml/yaml"
+	"github.com/oliashish/drone-yaml/yaml/compiler/internal/rand"
 )
 
 // default name of the clone step.

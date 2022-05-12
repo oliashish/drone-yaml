@@ -8,7 +8,7 @@ import (
 	"testing"
 
 	"github.com/drone/drone-runtime/engine"
-	"github.com/drone/drone-yaml/yaml"
+	"github.com/oliashish/drone-yaml/yaml"
 )
 
 func TestCloneImage(t *testing.T) {

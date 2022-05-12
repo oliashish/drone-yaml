@@ -8,9 +8,9 @@ import (
 	"bytes"
 	"strings"
 
-	droneyaml "github.com/drone/drone-yaml/yaml"
-	"github.com/drone/drone-yaml/yaml/compiler/image"
-	"github.com/drone/drone-yaml/yaml/pretty"
+	droneyaml "github.com/oliashish/drone-yaml/yaml"
+	"github.com/oliashish/drone-yaml/yaml/compiler/image"
+	"github.com/oliashish/drone-yaml/yaml/pretty"
 
 	"github.com/buildkite/yaml"
 )

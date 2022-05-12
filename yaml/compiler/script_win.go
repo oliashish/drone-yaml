@@ -21,7 +21,7 @@ import (
 	"strings"
 
 	"github.com/drone/drone-runtime/engine"
-	"github.com/drone/drone-yaml/yaml"
+	"github.com/oliashish/drone-yaml/yaml"
 )
 
 func setupScriptWin(spec *engine.Spec, dst *engine.Step, src *yaml.Container) {

@@ -18,7 +18,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/drone/drone-yaml/yaml"
+	"github.com/oliashish/drone-yaml/yaml"
 )
 
 // TODO consider "!!binary |" for secret value

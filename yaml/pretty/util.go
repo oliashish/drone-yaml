@@ -17,7 +17,7 @@ package pretty
 import (
 	"strings"
 
-	"github.com/drone/drone-yaml/yaml"
+	"github.com/oliashish/drone-yaml/yaml"
 )
 
 func isPrimative(v interface{}) bool {
