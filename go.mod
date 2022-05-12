@@ -1,11 +1,10 @@
 module github.com/oliashish/drone-yaml
 
-go 1.13
-
 require (
 	github.com/alecthomas/template v0.0.0-20160405071501-a0175ee3bccc // indirect
 	github.com/alecthomas/units v0.0.0-20151022065526-2efee857e7cf // indirect
 	github.com/bmatcuk/doublestar v1.1.1
+	github.com/oliashish/drone-yaml v1.2.3
 	github.com/buildkite/yaml v2.1.0+incompatible
 	github.com/docker/distribution v2.7.1+incompatible
 	github.com/docker/go-units v0.3.3
@@ -20,4 +19,4 @@ require (
 	gopkg.in/check.v1 v1.0.0-20180628173108-788fd7840127
 )
 
-replace github.com/drone/drone-yaml => github.com/oliashish/drone-yaml
+go 1.13
