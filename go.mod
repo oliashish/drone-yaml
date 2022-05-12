@@ -6,7 +6,7 @@ require (
 	github.com/docker/distribution v2.7.1+incompatible
 	github.com/docker/go-units v0.3.3
 	github.com/drone/drone-runtime v1.0.7-0.20190729202838-87c84080f4a1
-	github.com/drone/drone-yaml v1.2.3
+	github.com/oliashish/drone-yaml v1.2.3
 	github.com/ghodss/yaml v1.0.0
 	github.com/google/go-cmp v0.2.0
 	github.com/sergi/go-diff v1.0.0
